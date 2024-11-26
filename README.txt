@@ -5,7 +5,7 @@ This program will grab a random Wikipedia article and host it locally using flas
 ## How to run
 from the directory that contains the app:
 '''docker-compose build'''
-'''docker-compose run'''
+'''docker-compose up'''
 
 Then connect to localhost:5000
 you should see your random article!
