@@ -11,6 +11,7 @@ Then connect to localhost:5000
 you should see your random article!
 
 ## Github link
+https://github.com/TheMachinemann/wikigrabber
 
 ## Dockerhub link
 https://hub.docker.com/r/machinemann/wikigrabber
